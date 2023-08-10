@@ -1,0 +1,1 @@
+{"openapi":"3.0.0","paths":{"/":{"get":{"operationId":"AppController_getHello","parameters":[],"responses":{"200":{"description":""}}}}},"info":{"title":"Bob API","description":"The Bob API description","version":"1.0","contact":{}},"tags":[{"name":"nestjs","description":""},{"name":"bob","description":""}],"servers":[],"components":{"schemas":{}}}
